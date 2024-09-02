@@ -1,0 +1,5 @@
+U;Silva Freire;lewilson@lewilson.com;Lewilson;33;01001000
+U;Martins Freire;Laura@lewilson.com;Laura;06;73360053
+A;1;sim;tnt;supino;
+A;2;sim;tnt;barra articulada;
+A;3;não;max;legpress;
